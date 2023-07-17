@@ -1,7 +1,8 @@
 export const Editor = ({notesData = []}) => {
     return (
         <div>
-            <h2>All Notes</h2>
+            <h2 className="text-center text-xl"
+            >All Notes</h2>
             <div>
                 {notesData.map((item) => {
                     return (

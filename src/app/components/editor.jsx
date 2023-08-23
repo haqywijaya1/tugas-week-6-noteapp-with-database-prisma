@@ -19,7 +19,6 @@ export const Editor = ({notesData = []}) => {
                 })}
             </div>
             <div9>
-            {/* <p9>this is modified by</p9> */}
             <figure>
             <table>
   <tr> 
@@ -31,21 +30,10 @@ export const Editor = ({notesData = []}) => {
     <td>
         <p22>“True warriors are fierce because their training is fierce.”
 — Miyamoto Musashi</p22>
-        
-    </td>
+         </td>
   </tr>
- 
-  
-</table>
-     {/* <img
-     src="https://media.licdn.com/dms/image/D5603AQG9r76G70cQ7w/profile-displayphoto-shrink_400_400/0/1680535009283?e=1697673600&v=beta&t=FvwjM4IDYmnTUSwDyv0qw_3xcSmJOQfeIFYzpQg5zOI"
-     alt="photoprofile"
-     width="150px"                   
-        />
-         */}
-        
-
-        <figcaption>Modified by: Muhammad Haqy Wijaya (Haqy)</figcaption>
+</table>  
+     <figcaption>Modified by: Muhammad Haqy Wijaya (Haqy)</figcaption>
       </figure> 
       </div9>
         </div>      
